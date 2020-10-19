@@ -50,7 +50,7 @@ h1 {
 }
 
 .prinpara {
-  text-align: justify;
+  text-align: center;
   font-family: 'Ubuntu', sans-serif;
   color: #24a19c;
 }
@@ -72,7 +72,13 @@ h1 {
   .rvitem{
     margin-bottom: 5%;
   }
-
+  .head-image {
+  padding-top: 10px;
+  width: 20%;
+}
+  .principal-image {
+    width: 30%;
+  }
   em {
     font-size: 0.8rem;
   }
