@@ -1,0 +1,63 @@
+/* head section */
+.head {
+  background-color: #056676;
+  padding: 10px 10px 20px;
+}
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #fff;
+}
+.nav-item {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 5px 0;
+  color: #fff;
+}
+
+/* faculties section */
+.faculties {
+  background-color: #5eaaa8;
+  color: #fff;
+  text-align: center;
+  padding: 2% 10% 2%;
+}
+.facheading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.facdiv {
+padding: 2% 0 2%;
+}
+
+
+/* office staff section */
+.officestaff {
+  background-color: #a3d2ca;
+  color: #056676;
+  text-align: center;
+  padding: 2% 10% 2%;
+}
+.offheading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.offdiv {
+padding: 2% 0 2%;
+}
+
+/* section footer */
+.footer {
+  padding: 5% 4% 4% 4%;
+  background-color: #056676;
+  text-align: center;
+}
+.footerpara {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}

@@ -1,0 +1,79 @@
+/* head section */
+.head {
+  background-color: #2d4059;
+  padding: 10px 10px 20px;
+}
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #fff;
+}
+.nav-item {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 5px 0;
+  color: #fff;
+}
+.about {
+  text-align: justify;
+  padding: 7% 5% 5% 5%;
+}
+.abtline {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: #fff;
+  line-height: 2rem;
+}
+
+/* courses section */
+.courses {
+  text-align: center;
+  padding: 4% 0 4%;
+  background-color: #e5e5e5;
+}
+.block {
+  padding: 20px 0 20px;
+}
+.featuresheads {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #43658b;
+  margin-top: 20px;
+}
+.icon {
+  margin-top: 20px;
+  color: #43658b;
+}
+
+/* infrastructure section */
+.infrastructure {
+  padding: 5% 0 5%;
+  background-color: #ea5455;
+  text-align: center;
+}
+.infraheads {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+.infrapara {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  color: #fff;
+}
+.infraitem {
+  padding: 0 12% 0;
+}
+
+
+/* section footer */
+.footer {
+  padding: 5% 4% 4% 4%;
+  background-color: #e5e5e5;
+  text-align: center;
+}
+.footerpara {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  color: #2d4059;
+}

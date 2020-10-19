@@ -1,0 +1,84 @@
+/* head section */
+.head {
+  background-color: #393b44;
+  padding: 10px 10px 20px;
+}
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #fff;
+}
+.nav-item {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 5px 0;
+  color: #fff;
+}
+
+/* placements section */
+.placement {
+  background-color: #8d93ab;
+  color: #fff;
+  text-align: center;
+  padding: 2% 10% 2%;
+}
+.plaheading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.placediv {
+padding: 2% 0 2%;
+}
+.placeyear {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+.plapara {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 100;
+  text-align: justify;
+}
+
+/* sports section */
+.sports {
+  background-color: #d6e0f0;
+  color: #393b44;
+  text-align: center;
+  padding: 2% 10% 2%;
+}
+
+.spoheading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.spodiv {
+padding: 2% 0 2%;
+}
+.spoyear {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+.spopara {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 100;
+  text-align: justify;
+}
+
+
+/* section footer */
+.footer {
+  padding: 5% 4% 4% 4%;
+  background-color: #8d93ab;
+  text-align: center;
+}
+.footerpara {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}

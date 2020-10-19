@@ -1,0 +1,152 @@
+/* SECTION HEAD */
+.head {
+  background-color: #3f72af;
+  padding: 10px 10px 20px;
+}
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #fff;
+}
+.nav-item {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 5px 0;
+  color: #fff;
+}
+
+.collegenamelogo {
+  padding: 1%;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 50px;
+}
+
+.head-image {
+  padding-top: 10px;
+  width: 40%;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: #fff;
+}
+
+/* SECTION PRINCIPAL */
+.principal {
+  padding: 30px;
+  text-align: center;
+}
+
+.principal-image {
+  width: 50%;
+}
+
+.prindiv {
+  padding-top: 30px;
+}
+
+.prinpara {
+  text-align: justify;
+  font-family: 'Ubuntu', sans-serif;
+  color: #24a19c;
+}
+
+.prinhead {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #0f4c75;
+}
+
+/* SECTION REVIEWS */
+.reviews {
+  background-color: #40a8c4;
+  text-align: center;
+  color: #fff;
+}
+
+@media (max-width: 991px) {
+  .rvitem{
+    margin-bottom: 5%;
+  }
+
+  em {
+    font-size: 0.8rem;
+  }
+}
+
+.rvitem {
+  padding: 5% 10%;
+}
+
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+
+.rvimg {
+  width: 15%;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+/* section features */
+.features {
+  text-align: center;
+  padding: 4% 0 4%;
+}
+.block {
+  padding: 20px 0 20px;
+}
+.featuresheads {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #43658b;
+  margin-top: 20px;
+}
+.icon {
+  margin-top: 20px;
+  color: #43658b;
+}
+
+/* pictures section */
+.pictures {
+  background-color: #3f72af;
+  text-align: center;
+}
+.collegepic {
+  width: 50%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/* join section */
+.joinus {
+  padding: 5%;
+  text-align: center;
+}
+.joinline {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #0f4c75;
+  padding-bottom: 20px;
+}
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 20px 0;
+}
+
+/* section footer */
+.footer {
+  padding: 5% 4% 4% 4%;
+  background-color: #40a8c4;
+  text-align: center;
+  color: #fff;
+}
+.footerpara {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
