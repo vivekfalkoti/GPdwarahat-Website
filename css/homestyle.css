@@ -26,7 +26,7 @@
 
 .head-image {
   padding-top: 10px;
-  width: 20%;
+  width: 10%;
 }
 
 h1 {
@@ -42,7 +42,7 @@ h1 {
 }
 
 .principal-image {
-  width: 30%;
+  width: 20%;
 }
 
 .prindiv {
@@ -72,13 +72,7 @@ h1 {
   .rvitem{
     margin-bottom: 5%;
   }
-  .head-image {
-  padding-top: 10px;
-  width: 20%;
-}
-  .principal-image {
-    width: 30%;
-  }
+
   em {
     font-size: 0.8rem;
   }
