@@ -59,16 +59,6 @@ Open `index.html` in your browser.
 
 ---
 
-## Screenshots
-
-(Add screenshot images in a folder named screenshots)
-
-Example:
-
-![Homepage](screenshots/homepage.png)
-
----
-
 ## Author
 
 Vivek Falkoti  
