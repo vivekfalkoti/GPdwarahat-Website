@@ -38,14 +38,16 @@ Built using pure HTML and CSS. No frameworks.
 
 ## Project Structure
 
+```
 GPdwarahat-Website/
 │
-├── index.html  
-├── college.html  
-├── staff.html  
-├── student.html  
-├── css/  
+├── index.html
+├── college.html
+├── staff.html
+├── student.html
+├── css/
 └── pics/
+```
 
 ---
 
